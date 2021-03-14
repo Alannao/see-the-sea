@@ -1,4 +1,4 @@
-var myimages = ["images/testpattern.jpg", "images/wandavision.jpg", "images/mando.jpg", "images/doom-patrol-show.jpg", "images/sabrina.jpg", "images/dark.jpg"];
+var myimages = ["images/jellies.jpg", "images/biolum.gif", "images/angler.jpg", "images/squid.jpg", "images/seadragon.jpg", "images/Seahorsecoral.jpg"];
 
 var endcount = myimages.length;
 
